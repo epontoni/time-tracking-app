@@ -1,0 +1,8 @@
+.addTimerButton {
+    text-align: center;
+}
+
+.addTimerButton button:hover {
+    cursor: pointer;
+}
+
